@@ -1,0 +1,7 @@
+4
+cust_id,car_name,booking_date,status,no_plate
+0,Bolero,0,not_booked,UK06U2025
+0,Swift,0,not_booked,UP06U2025
+0,Audi,0,not_booked,HR08U1212
+0,scorpio,0,not_booked,PB07A2023
+0,maruti800,0,not_booked,US12U7812
